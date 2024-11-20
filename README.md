@@ -1,5 +1,5 @@
 Hi there! 👋 I'm John Bryan B. Vergara
-- 🎓 Magna Cum Laude graduate with a Bachelor of Science in Information Technology from Cavite State University - Imus Campus.
+- 🎓 Graduated Magna Cum Laude in Bachelor of Science in Information Technology from Cavite State University – Imus Campus.
 - 💻 Passionate about building innovative solutions, crafting clean code, and turning ideas into impactful projects.
 - 🌐 Currently diving into the world of software development and web development.
 - 🤝 Former Vice President at Cavite Active Sports Society for Athletes.

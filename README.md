@@ -18,7 +18,7 @@ I enjoy turning ideas into websites and practical digital projects. I like figur
 - Build practical projects to apply analytical concepts
 - Continue exploring software development, web technologies, and automation
 
-### 📊 Current Focus: Data Analytics
+### 📊 Current Focus: Data Analytics (09/11/2026)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67997628d6a983c895541151?variant=dark&roadmaps=data-analyst%2Csql%2Cpython-data-analysis%2Cpower-bi)](https://roadmap.sh)
 

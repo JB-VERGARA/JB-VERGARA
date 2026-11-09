@@ -3,17 +3,11 @@
 Just a guy who likes building stuff and figuring out how to make it work.
 
 💻 Experienced Web Developer  
-🧩 Experienced with CMS Builders like Duda  
-🎨 UI/UX & Web Design  
+🧩 Experienced with CMS Builders like Duda and Wordpress  
+🎨 UI/UX & Web Design (Figma) 
 🛠️ Always building, learning, and experimenting
 
 I enjoy turning ideas into websites and practical digital projects. I like figuring things out, trying new tools, and occasionally wondering why something worked yesterday. 😂
-
-### 💻 Technical Background
-
-- Web development and CMS platforms (Duda, WordPress)
-- UI/UX design and interface development
-- Software development and automation
 
 ### 🛠️ What I'm working on
 

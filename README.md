@@ -19,7 +19,7 @@ I enjoy turning ideas into websites and practical digital projects. I like figur
 
 ### 📊 Current Focus: Data Analytics
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67997628d6a983c895541151?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67997628d6a983c895541151?variant=dark)](https://roadmap.sh)
 
 ### 🎓 The serious part
 

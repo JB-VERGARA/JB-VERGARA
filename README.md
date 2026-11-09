@@ -25,7 +25,7 @@ I enjoy turning ideas into websites and practical digital projects. I like figur
     <img
       src="https://roadmap.sh/card/wide/67997628d6a983c895541151?variant=dark&roadmaps=data-analyst%2Csql%2Cpython-data-analysis%2Cpower-bi"
       alt="My Data Analytics Learning Roadmap"
-      width="100%"
+      width="50%"
     />
   </a>
 </div>

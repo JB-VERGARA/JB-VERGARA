@@ -9,13 +9,20 @@ Just a guy who likes building stuff and figuring out how to make it work.
 
 I enjoy turning ideas into websites and practical digital projects. I like figuring things out, trying new tools, and occasionally wondering why something worked yesterday. 😂
 
-### 🔨 What I do
+### 💻 Technical Background
 
-- Build and maintain websites
-- Work with CMS builders and web platforms
-- Explore UI/UX and web design
-- Build personal projects and random experiments
-- Learn by actually building things
+- Web development and CMS platforms (Duda, WordPress)
+- UI/UX design and interface development
+- Software development and automation
+
+### 🛠️ What I'm working on
+
+- Analyze and organize data using Excel and spreadsheets
+- Learn SQL for querying, filtering, and manipulating data
+- Explore Python for data analysis and automation
+- Develop data visualizations and dashboards with Power BI
+- Build practical projects to apply analytical concepts
+- Continue exploring software development, web technologies, and automation
 
 ### 📊 Current Focus: Data Analytics
 
